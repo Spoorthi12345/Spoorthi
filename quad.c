@@ -1,5 +1,5 @@
 
-//Write a program to print all the possible roots of a quadratic equation using functions:-
+//Write a program to print all the possible roots of a quadratic equation:-
 #include<stdio.h>
 #include<math.h>
 int main()
